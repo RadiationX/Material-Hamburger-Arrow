@@ -2,8 +2,8 @@
 ## How to add
 You must download **rx_icon.css** and **rx_icon.js**. Add this files to head
 ```html
-<link rel="stylesheet" href="../lib/rx_icon.css" type="text/css">
-<script src="../lib/rx_icon.js" type="text/javascript"></script>
+<link rel="stylesheet" href="rx_icon.css" type="text/css">
+<script src="rx_icon.js" type="text/javascript"></script>
 ```
 Add elem .rx_icon#rx_icon in your place in html
 ```html
