@@ -49,7 +49,7 @@ drawerIcon.set(50); //Arrow rotate 90deg
 drawerIcon.setState(0) //Close arrow
 drawerIcon.setState(1, 0.5) //Open arrow with duration 0.5s
 ```
-Default value 0.25, argument not important
+Default value 0.225, argument not important
 ###.lock() .unLock()
 Lock arrow in this state
 ```javascript
